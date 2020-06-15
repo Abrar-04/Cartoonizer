@@ -1,6 +1,6 @@
 # Cartoonizer
 
-## Created a Cartoonizer App using OpenCV and deployed using FLASK
+## Cartoonizer App using OpenCV and deployed using FLASK
 
 Disable chrome cache from ChromeDevTools
 * press Ctrl+Shift+I
