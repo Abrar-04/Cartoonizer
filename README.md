@@ -2,6 +2,11 @@
 
 ## Created a Cartoonizer App using OpenCV and deployed using FLASK
 
+Disable chrome cache from ChromeDevTools
+* press Ctrl+Shift+I
+* under Network tab
+* check 'Disable Cache'
+
 ---------------------------------------------------------------------------.
 
 
@@ -21,7 +26,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Compare both the image 
+# You Have just been CARTOONIZED ! 
 
 ![](img/abrar.jpeg)
 ![](img/final.jpg)
