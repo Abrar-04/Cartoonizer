@@ -7,7 +7,7 @@ Disable chrome cache from ChromeDevTools
 * under Network tab
 * check 'Disable Cache'
 
----------------------------------------------------------------------------.
+
 # How does it work ?
 1. Apply a bilateral filter to reduce the color palette of the image.
 2. Convert the original color image into grayscale.
