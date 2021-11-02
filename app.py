@@ -7,7 +7,8 @@ import os
 
 picture = os.path.join('static', 'pics')
 
-app = Flask(__name__)  
+def start():
+    app = Flask(__name__)  
 
 app.config['UPLOAD_FOLDER'] = picture 
 
